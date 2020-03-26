@@ -1,0 +1,24 @@
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\bin\Debug\EADProject.exe.config
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\bin\Debug\EADProject.exe
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\bin\Debug\EADProject.pdb
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\Safe JA.csprojAssemblyReference.cache
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.FrmCitizen_Report.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.FrmCreate_Account.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.Properties.Resources.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.FrmSign_In.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\Safe JA.csproj.GenerateResource.cache
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.exe
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.pdb
+C:\Users\bro god\Desktop\Tyshorna\EAD\Project\EADProject\EADProject\obj\Debug\EADProject.FrmRespond.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\Safe JA.csprojAssemblyReference.cache
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.FrmCitizen_Report.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.FrmCreate_Account.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.Properties.Resources.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.FrmRespond.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.FrmSign_In.resources
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\Safe JA.csproj.GenerateResource.cache
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.exe
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\obj\Debug\EADProject.pdb
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\bin\Debug\EADProject.exe.config
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\bin\Debug\EADProject.exe
+C:\Users\bro god\Desktop\Tyshorna\EAD\EADProject\EADProject\bin\Debug\EADProject.pdb
